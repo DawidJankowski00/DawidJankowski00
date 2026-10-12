@@ -1,8 +1,8 @@
 # Hi, I'm Dawid
 
-Software developer from Poland. I build backend and full-stack applications, mostly with .NET and C#.
+Software developer from Poland. I build backend and full-stack applications, mostly with .NET and Python.
 
-**Stack:** C# / .NET, Python, Blazor, .NET MAUI, SQL
+**Stack:** C# / .NET, Python, Blazor, .NET MAUI, SQL, FastAPI, Angular
 
 ## Featured projects
 
@@ -11,7 +11,3 @@ Software developer from Poland. I build backend and full-stack applications, mos
 - **[Transit Games (JetLagThePhoneGame)](https://github.com/DawidJankowski00/JetLagThePhoneGame)**: mobile app for real-world public-transport games, built with .NET MAUI and SignalR.
 
 I also keep my [LeetCode solutions](https://github.com/DawidJankowski00/Leetcode) in Python and C#.
-
-## Contact
-
-Reach me through GitHub: [@DawidJankowski00](https://github.com/DawidJankowski00).
